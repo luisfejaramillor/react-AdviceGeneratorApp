@@ -3,7 +3,6 @@ import * as React from "react"
 export const PatternDivider = (props) => (
   <svg
     xmlns="http://www.w3.org/2000/svg"
-    height={853.333}
     viewBox="0 0 1280 640"
     {...props}
   >
@@ -14,4 +13,5 @@ export const PatternDivider = (props) => (
     </g>
   </svg>
 )
+
 
