@@ -21,8 +21,8 @@ export const AdviceItem = () => {
           <p> {advice} </p>
         </div>
       </section>
-      <section className="divider-button">
-        <PatternDivider className={"pattern-divider"} />
+      <section className="divider-button" >
+        <PatternDivider className={"pattern-divider"}/>
         <button onClick={hanldeChangeAdvice}>
           <Dice className="dice" />
         </button>
